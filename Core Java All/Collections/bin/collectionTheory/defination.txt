@@ -1,0 +1,8 @@
+
+1. What is collection framework?
+Ans:
+  * collection represents a group of objects as a single unit.
+  
+  * each collection classes are like a container or bag ,where we can hold multiple objects
+  
+  
