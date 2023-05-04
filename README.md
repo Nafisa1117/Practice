@@ -4,5 +4,5 @@ Core Java
 --------------------------------------------
 Collections
 --------------------------------------------
-OPPs - Obejct Oriented Programming
+OPPs - Object Oriented Programming
 ****************
