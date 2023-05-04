@@ -1,0 +1,47 @@
+
+collection framework khud me ek bada faremwork hai. Iske andr ek collection naam ka Interface hai. iske alawa Map Interface bhi ata hai
+and Iterator Interface bhi ata hai.
+
+LIST : agr hum ko koi chiz ek ke bad ek continuous store krna hota hai to list use krte hai
+
+SET : jb hum chahte hai ki sare elements unique ho..tb Set use krte hai.
+
+QUEUE : jb hum koi priority set krna chahte h .kisis chiz ka. tb use krte h Queue.
+
+
+Collection Interface me Map nahi ata hai. q ki Collection Interface ke andr jitne Interface h. vo bss value ko store krta hai.
+Map key-value pair ko store krta hai.
+
+=============================================
+
+
+ARRAY
+--------
+* array ka size fixed hota hai. 
+* contigorous fashion me hota hai(means ek ke baad ek value store krta hai).
+* ye static hote hai.(Dynamic nahi hota hai). 
+
+
+ARRAYlIST
+----------
+* dynamic hota hai
+
+
+===============================================================================================================================
+//⚫ add() - Inserts the specified element into the queue. If the task is successful, add() retur true, if not it throws an exception.
+
+//⚫ offer() - Inserts the specified element into the queue. If the task is successful, offer() returns true, if not it returns false.
+
+
+
+//• element() - Returns the head of the queue. Throws an exception if the queue is empty.
+
+//peek() - Returns the head of the queue. Returns null if the queue is empty.
+
+
+
+//• remove() - Returns and removes the head of the queue. Throws an exception if the queue is empty.
+
+//poll() - Returns and removes the head of the queue. Returns null if the queue is empty.
+
+==============================================================================================================================
