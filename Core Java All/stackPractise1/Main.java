@@ -16,6 +16,15 @@ public class Main {
 		
 		System.out.println(stack);
 		
+		System.out.println(stack.empty());
+		
+		stack.pop();
+		stack.pop();
+		stack.pop();
+		stack.pop();
+		
+		System.out.println(stack.isEmpty());
+		
 
 	}
 
